@@ -6,6 +6,10 @@ When an AI agent needs to call `REPLY_TO_THREAD`, it first needs a `thread_id` â
 
 ![Force View](screenshots/03-force-view.png)
 
+### Demo
+
+https://github.com/aptsalt/composio-dep-graph/raw/master/screenshots/demo.mp4
+
 ## What it does
 
 Analyzes all 1,309 raw tool definitions from Composio's API (442 Google Super + 867 GitHub), identifies which tools require outputs from other tools to function, and builds a complete dependency graph.

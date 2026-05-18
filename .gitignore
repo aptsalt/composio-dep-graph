@@ -5,3 +5,6 @@ node_modules/
 dist/
 coverage/
 .DS_Store
+record-demo.mjs
+screenshots/demo.webm
+package-lock.json
