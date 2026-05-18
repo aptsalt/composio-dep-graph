@@ -8,7 +8,9 @@ When an AI agent needs to call `REPLY_TO_THREAD`, it first needs a `thread_id` â
 
 ### Demo
 
-https://github.com/aptsalt/composio-dep-graph/raw/master/screenshots/demo.mp4
+![Demo](screenshots/demo.gif)
+
+[Download full quality video (mp4)](https://github.com/aptsalt/composio-dep-graph/releases/download/v1.0/demo.mp4)
 
 ## What it does
 
